@@ -5,6 +5,7 @@ import { Spotlight } from './ui/Sportlight'
 import { TextGenerateEffect } from './ui/TextGenerateEffect'
 
 const Hero = () => {
+
   return (
     <div className='pb-20 pt-36'>
         <div>
@@ -44,11 +45,12 @@ const Hero = () => {
             Hi, I&apos;m Gaurav Antal, a Full Stack Developer.
           </p>
 
-          <a href='#About'>
+          <a href='https://drive.google.com/file/d/1Ql1fiI_5SP3ljwakQIC_NAa87oKUm6j8/view?usp=sharing'>
             <MagicButton 
               title='Find My CV'
               icon={<FaLocationArrow />}
               position='right'
+      
             />
           </a> 
           
