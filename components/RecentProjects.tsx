@@ -17,12 +17,13 @@ const RecentProjects = () => {
           <div
             className="lg:min-h-[32.5rem] h-[25rem] flex items-center justify-center sm:w-96 w-[80vw]"
             key={item.id}
-          >
+            >
             <PinContainer
               title="github.com"
               href="https://github.com/GauravAntal15"
             >
               <div className="relative flex items-center justify-center sm:w-96 w-[80vw] overflow-hidden h-[20vh] lg:h-[30vh] mb-10">
+                <a href={item.link}>
                 <div
                   className="relative w-full h-full overflow-hidden lg:rounded-3xl"
                   style={{ backgroundColor: "#13162D" }}
@@ -34,11 +35,14 @@ const RecentProjects = () => {
                   alt="cover"
                   className="z-10 absolute bottom-0"
                 />
+                </a>
               </div>
 
               <h1 className="font-bold lg:text-base md:text-xl text-base line-clamp-1">
                 {item.title}
+                
               </h1>
+              
 
               <p
                 className="lg:text-sm lg:font-normal font-light text-sm line-clamp-2"
@@ -48,6 +52,7 @@ const RecentProjects = () => {
                 }}
               >
                 {item.des}
+                
               </p>
 
               <div className="flex items-center justify-between mt-7 mb-3">
@@ -66,8 +71,11 @@ const RecentProjects = () => {
                 </div>
 
                 <div className="flex justify-center items-center">
+                 
                   <p className="flex lg:text-base md:text-xs text-sm text-purple">
+                    <a href={item.link}>
                     Check Link
+                    </a>
                   </p>
                   <FaLocationArrow className="ms-3" color="#CBACF9" />
                 </div>
