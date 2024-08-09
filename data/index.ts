@@ -150,7 +150,7 @@ export const companies = [
   },
   {
     id: 2,
-    name: "appwrite",
+    name: "kubernets",
     img: "/kubernets.svg",
     nameImg: "/kub.svg",
   },
