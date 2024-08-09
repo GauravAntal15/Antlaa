@@ -145,20 +145,20 @@ export const companies = [
   {
     id: 1,
     name: "cloudinary",
-    img: "/cloud.svg",
-    nameImg: "/cloudName.svg",
+    img: "/mongo.svg",
+    nameImg: "/mongoName.svg",
   },
   {
     id: 2,
     name: "appwrite",
-    img: "/app.svg",
-    nameImg: "/appName.svg",
+    img: "/kubernets.svg",
+    nameImg: "/kub.svg",
   },
   {
     id: 3,
-    name: "HOSTINGER",
-    img: "/host.svg",
-    nameImg: "/hostName.svg",
+    name: "AWS",
+    img: "/awslogo.svg",
+    nameImg: "/awsname.svg",
   },
   {
     id: 4,
