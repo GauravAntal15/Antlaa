@@ -120,7 +120,7 @@ export const InfiniteMovingCards = ({
                   style={{
                     height:50,
                     width:50,
-                    borderRadius:100
+                    borderRadius:100,
                   }}
                   src="/profiles.jpg" alt="profile" />
                 </div>
