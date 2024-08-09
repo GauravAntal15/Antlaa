@@ -77,7 +77,7 @@ export const projects = [
     title: "Prediction Of Lumpy Skin Diseased in Cow:",
     des: "Identification and Prediction of Lumpy skin diseases in cows using machine learning, CNN, and Image Processing and predicts the result with an accuracy of more than 84%",
     img: "/p1.svg",
-    iconLists: ["/py.svg", "/and.svg", "/java.svg"],
+    iconLists: ["/Py.svg", "/and.svg", "/java.svg"],
     link: "https://github.com/GauravAntal15",
   },
   /*{
