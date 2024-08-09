@@ -51,7 +51,7 @@ export const gridItems = [
 
   {
     id: 5,
-    title: "I'm Currently Learning AWS, Kubernetes, DevOps, Docker",
+    title: "I'm Currently Learning AWS, Kubernetes, DevOps, Docker. In addition, I am an avid competitive programmer, having solved over 500+ problems on platforms such as LeetCode, GeeksforGeeks, and CodeChef.",
     description: "The Inside Scoop",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -135,6 +135,12 @@ export const testimonials = [
   },
   {
     quote:
+      "Gaurav Antal possesses a remarkable ability to Quick learner, communicate effectively with team members and attention to details. He consistently delivers high-quality results and is always willing to go above and beyond to ensure the success of the team and the organization as a whole.Furthermore, He actively contributes ideas, offers support to colleagues, and demonstrates a strong commitment to achieving shared goals. In summary, I have the utmost confidence in his abilities and believe he would be a valuable asset to any team or organization.",
+    name: "Mukul Jain",
+    title: "Ex-Analyst at Consilio LLC",
+  },
+  {
+    quote:
       "I highly recommend Gaurav. He is incredibly hardworking and always ready to take on new challenges. His positive attitude and enthusiasm make him a joy to work with. Gaurav is a valuable team member who excels in everything he does. Any team would be lucky to have him.",
     name: "Vaneet Sharma",
     title: "Team Lead - Data Operation at Consilio LLC",
@@ -144,7 +150,7 @@ export const testimonials = [
 export const companies = [
   {
     id: 1,
-    name: "cloudinary",
+    name: "MongoDB",
     img: "/mongo.svg",
     nameImg: "/mongoName.svg",
   },
@@ -171,6 +177,24 @@ export const companies = [
     name: "docker.",
     img: "/dock.svg",
     nameImg: "/dockerName.svg",
+  },
+  {
+    id: 6,
+    name: "React",
+    img: "/react.svg",
+    nameImg: "/reactname.svg",
+  },
+  {
+    id: 7,
+    name: "Node",
+    img: "/nodejs.svg",
+    nameImg: "/nodename.svg",
+  },
+  {
+    id: 8,
+    name: "Git",
+    img: "/github.svg",
+    nameImg: "/githubname.svg",
   },
 ];
 
