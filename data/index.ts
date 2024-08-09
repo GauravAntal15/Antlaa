@@ -152,7 +152,7 @@ export const companies = [
     id: 2,
     name: "kubernets",
     img: "/kubernets.svg",
-    nameImg: "/kub.svg",
+    nameImg: "/tailwindcss.svg",
   },
   {
     id: 3,
