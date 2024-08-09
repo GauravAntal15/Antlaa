@@ -111,33 +111,33 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "I highly recommend Gaurav. He is incredibly hardworking and always ready to take on new challenges. His positive attitude and enthusiasm make him a joy to work with. Gaurav is a valuable team member who excels in everything he does. Any team would be lucky to have him.",
+    name: "Vaneet Sharma",
+    title: "Team Lead - Data Operation at Consilio LLC",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Gaurav Antal possesses a remarkable ability to Quick learner, communicate effectively with team members and attention to details. He consistently delivers high-quality results and is always willing to go above and beyond to ensure the success of the team and the organization as a whole.Furthermore, He actively contributes ideas, offers support to colleagues, and demonstrates a strong commitment to achieving shared goals. In summary, I have the utmost confidence in his abilities and believe he would be a valuable asset to any team or organization.",
+    name: "Mukul Jain",
+    title: "Ex-Analyst at Consilio LLC",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "I highly recommend Gaurav. He is incredibly hardworking and always ready to take on new challenges. His positive attitude and enthusiasm make him a joy to work with. Gaurav is a valuable team member who excels in everything he does. Any team would be lucky to have him.",
+    name: "Vaneet Sharma",
+    title: "Team Lead - Data Operation at Consilio LLC",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Gaurav Antal possesses a remarkable ability to Quick learner, communicate effectively with team members and attention to details. He consistently delivers high-quality results and is always willing to go above and beyond to ensure the success of the team and the organization as a whole.Furthermore, He actively contributes ideas, offers support to colleagues, and demonstrates a strong commitment to achieving shared goals. In summary, I have the utmost confidence in his abilities and believe he would be a valuable asset to any team or organization.",
+    name: "Mukul Jain",
+    title: "Ex-Analyst at Consilio LLC",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "I highly recommend Gaurav. He is incredibly hardworking and always ready to take on new challenges. His positive attitude and enthusiasm make him a joy to work with. Gaurav is a valuable team member who excels in everything he does. Any team would be lucky to have him.",
+    name: "Vaneet Sharma",
+    title: "Team Lead - Data Operation at Consilio LLC",
   },
 ];
 
