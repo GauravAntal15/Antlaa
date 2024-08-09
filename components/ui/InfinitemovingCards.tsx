@@ -1,5 +1,5 @@
 "use client";
-import PNG from 'png-ts';
+
 import { cn } from "@/utils/cn";
 import React, { useEffect, useState } from "react";
 
@@ -116,7 +116,7 @@ export const InfiniteMovingCards = ({
               <div className="relative z-20 mt-6 flex flex-row items-center">
                 {/* add this div for the profile img */}
                 <div className="me-3">
-                  <img src="/profile.svg" alt="profile" />
+                  <img src="/vaneet.png" alt="profile" />
                 </div>
                 <span className="flex flex-col gap-1">
                   {/* change text color, font-normal to font-bold, text-xl */}
