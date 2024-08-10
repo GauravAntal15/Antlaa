@@ -214,6 +214,12 @@ export const companies = [
     img: "/framer.svg",
     nameImg: "/framername.svg",
   },
+  {
+    id: 12,
+    name: "Figma",
+    img: "/figma.svg",
+    nameImg: "/figmaname.svg",
+  },
 ];
 
 export const workExperience = [
