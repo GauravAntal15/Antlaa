@@ -196,6 +196,24 @@ export const companies = [
     img: "/github.svg",
     nameImg: "/githubname.svg",
   },
+  {
+    id: 9,
+    name: "JavaScript",
+    img: "/javascript.svg",
+    nameImg: "/javascriptname.svg",
+  },
+  {
+    id: 10,
+    name: "TypeScript",
+    img: "/ts.svg",
+    nameImg: "/tyname.svg",
+  },
+  {
+    id: 11,
+    name: "Framer Motion",
+    img: "/framer.svg",
+    nameImg: "/framername.svg",
+  },
 ];
 
 export const workExperience = [
