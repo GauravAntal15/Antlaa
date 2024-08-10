@@ -258,13 +258,16 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
+    link:"https://github.com/GauravAntal15",
   },
   {
     id: 2,
     img: "/twit.svg",
+    link:"",
   },
   {
     id: 3,
     img: "/link.svg",
+    link:"https://www.linkedin.com/in/gaurav-antal-53153155l/",
   },
 ];
