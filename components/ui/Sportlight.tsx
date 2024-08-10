@@ -13,7 +13,7 @@ export const Spotlight = ({ className, fill }: SpotlightProps) => {
         className
       )}
       xmlns="http://www.w3.org/2000/svg"
-      viewBox="0 0 2287 2842"
+      viewBox="0 0 3787 2842"
       fill="none"
     >
       <g filter="url(#filter)">
@@ -33,7 +33,7 @@ export const Spotlight = ({ className, fill }: SpotlightProps) => {
           x="0.860352"
           y="0.838989"
           width="3785.16"
-          height="4840.26"
+          height="2840.26"
           filterUnits="userSpaceOnUse"
           colorInterpolationFilters="sRGB"
         >
