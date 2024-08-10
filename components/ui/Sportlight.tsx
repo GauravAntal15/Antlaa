@@ -13,7 +13,7 @@ export const Spotlight = ({ className, fill }: SpotlightProps) => {
         className
       )}
       xmlns="http://www.w3.org/2000/svg"
-      viewBox="0 0 3787 2842"
+      viewBox="0 0 2787 2842"
       fill="none"
     >
       <g filter="url(#filter)">
