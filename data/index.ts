@@ -226,7 +226,7 @@ export const workExperience = [
   {
     id: 1,
     title: "Data Analyst",
-    desc: "Determine, gather, organize, and generate electronically stored data (ESI), In order to support attorneys throughout the litigation process, process the data, and make it accessible. Aside from that, I managed the SQL database, the Bloomberg data, the Amazon Quip data, the Goodle Drive attachments, and the document password cracking. SKILLS: RelativityOne, Nuix, SQL, EnCase, FTK, and Cellebrite.",
+    desc: "Determine, gather, organize, and generate electronically stored data (ESI), In order to support attorneys throughout the litigation process, process the data, and make it accessible. Aside from that, I managed the SQL database, the Bloomberg data, the Amazon Quip data, the Google Drive attachments, and the document password cracking. SKILLS: RelativityOne, Nuix, SQL, EnCase, FTK, and Cellebrite.",
     className: "md:col-span-2 ",
     thumbnail: "/exp1.svg",
   },
