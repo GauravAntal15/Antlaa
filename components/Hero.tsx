@@ -45,7 +45,7 @@ const Hero = () => {
             Hi, I&apos;m Gaurav Antal, a Full Stack Developer.
           </p>
 
-          <a href='https://drive.google.com/file/d/1Ql1fiI_5SP3ljwakQIC_NAa87oKUm6j8/view?usp=sharing'>
+          <a href='https://drive.google.com/file/d/1XoLFxuWbSt7kCbn9wWkph3AyUP_CNdKp/view?usp=sharing'>
             <MagicButton 
               title='Find My CV'
               icon={<FaLocationArrow />}
