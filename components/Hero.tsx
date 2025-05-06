@@ -42,7 +42,7 @@ const Hero = () => {
           />
           <p className='text-center md:tracking-wider
           mb-4 text-sm md:text-lg lg:text-2xl'>
-            Hi, I&apos;m Gaurav Antal, a Full Stack Developer.
+            Hi, I&apos;m Gaurav Antal, a Data Analyst.
           </p>
 
           <a href='https://drive.google.com/file/d/1XoLFxuWbSt7kCbn9wWkph3AyUP_CNdKp/view?usp=sharing'>
